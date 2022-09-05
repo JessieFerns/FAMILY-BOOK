@@ -1,0 +1,18 @@
+#family_member_image{
+height: 400px;
+width: 280px;
+border-radius: 10px;
+border: #000000 ;
+
+}
+
+button{
+    height: 50px;
+    width: 120px;
+    font-size: 20px;
+    background-color:bisque;
+}
+
+body{
+    background-color:#bcb9fa
+}
